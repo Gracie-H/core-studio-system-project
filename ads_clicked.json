@@ -1,0 +1,68 @@
+{
+  "impressions_history_ads_clicked": [
+    {
+      "title": "{{product.name}}",
+      "string_list_data": [
+        {
+          "timestamp": 1758561754
+        }
+      ]
+    },
+    {
+      "title": "{{product.name}}",
+      "string_list_data": [
+        {
+          "timestamp": 1758596164
+        }
+      ]
+    },
+    {
+      "title": "{{product.name}}",
+      "string_list_data": [
+        {
+          "timestamp": 1758596234
+        }
+      ]
+    },
+    {
+      "title": "Women's Accessories | Dries Van Noten",
+      "string_list_data": [
+        {
+          "timestamp": 1758596273
+        }
+      ]
+    },
+    {
+      "title": "{{product.name}}",
+      "string_list_data": [
+        {
+          "timestamp": 1758646526
+        }
+      ]
+    },
+    {
+      "title": "Gimaguas",
+      "string_list_data": [
+        {
+          "timestamp": 1758778095
+        }
+      ]
+    },
+    {
+      "title": "Gimaguas",
+      "string_list_data": [
+        {
+          "timestamp": 1758778137
+        }
+      ]
+    },
+    {
+      "title": "Temu Storage",
+      "string_list_data": [
+        {
+          "timestamp": 1758812929
+        }
+      ]
+    }
+  ]
+}

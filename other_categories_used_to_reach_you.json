@@ -1,0 +1,49 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Name",
+      "vec": [
+        {
+          "value": "Engaged Shoppers"
+        },
+        {
+          "value": "Facebook access (mobile): all mobile devices"
+        },
+        {
+          "value": "Frequent Travelers"
+        },
+        {
+          "value": "Frequent international travelers"
+        },
+        {
+          "value": "Household income: top 10% of ZIP codes (US)"
+        },
+        {
+          "value": "Household income: top 5% of ZIP codes (US)"
+        },
+        {
+          "value": "Mobile network or device users"
+        },
+        {
+          "value": "Potential mobile network or device change"
+        },
+        {
+          "value": "Recent mobile network or device change"
+        },
+        {
+          "value": "Returned from travels 1 week ago"
+        },
+        {
+          "value": "Returned from travels 2 weeks ago"
+        },
+        {
+          "value": "Wi-Fi Usage"
+        }
+      ]
+    }
+  ],
+  "fbid": "17841448295374560"
+}

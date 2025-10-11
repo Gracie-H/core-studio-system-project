@@ -1,0 +1,764 @@
+{
+  "impressions_history_ads_seen": [
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "sephora"
+        },
+        "Time": {
+          "timestamp": 1758236504
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "gentlemonster"
+        },
+        "Time": {
+          "timestamp": 1758237827
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "chicagomusical"
+        },
+        "Time": {
+          "timestamp": 1758247105
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758251192
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758336859
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758337814
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "pinkparks_onlinestore"
+        },
+        "Time": {
+          "timestamp": 1758339140
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "apple"
+        },
+        "Time": {
+          "timestamp": 1758339401
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "enroutejewelry_"
+        },
+        "Time": {
+          "timestamp": 1758339575
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "prada"
+        },
+        "Time": {
+          "timestamp": 1758341612
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758396475
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758425651
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "komune.space"
+        },
+        "Time": {
+          "timestamp": 1758428692
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758502066
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "prodbldg"
+        },
+        "Time": {
+          "timestamp": 1758502843
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "mazdausa"
+        },
+        "Time": {
+          "timestamp": 1758507593
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "bmwusa"
+        },
+        "Time": {
+          "timestamp": 1758507600
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758561890
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "rombautofficial"
+        },
+        "Time": {
+          "timestamp": 1758561980
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "artlist.io"
+        },
+        "Time": {
+          "timestamp": 1758566670
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758594960
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758649406
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "wsj"
+        },
+        "Time": {
+          "timestamp": 1758662290
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "urbansophisticationtm"
+        },
+        "Time": {
+          "timestamp": 1758675572
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758769736
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "rombautofficial"
+        },
+        "Time": {
+          "timestamp": 1758771614
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "ugg"
+        },
+        "Time": {
+          "timestamp": 1758772166
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "newyorkermag"
+        },
+        "Time": {
+          "timestamp": 1758777832
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "worstcase.jpg"
+        },
+        "Time": {
+          "timestamp": 1758821731
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "chicagomusical"
+        },
+        "Time": {
+          "timestamp": 1758247594
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758252021
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "lexususa"
+        },
+        "Time": {
+          "timestamp": 1758324550
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758337434
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "prodbldg"
+        },
+        "Time": {
+          "timestamp": 1758337434
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758338533
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "pinkparks_onlinestore"
+        },
+        "Time": {
+          "timestamp": 1758339394
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "apple"
+        },
+        "Time": {
+          "timestamp": 1758339443
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "enroutejewelry_"
+        },
+        "Time": {
+          "timestamp": 1758339961
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "prada"
+        },
+        "Time": {
+          "timestamp": 1758342291
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758387810
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758401719
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "komune.space"
+        },
+        "Time": {
+          "timestamp": 1758428724
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "komune.space"
+        },
+        "Time": {
+          "timestamp": 1758428724
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758436133
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "libertymutual"
+        },
+        "Time": {
+          "timestamp": 1758485934
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758502593
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jaded_man"
+        },
+        "Time": {
+          "timestamp": 1758505650
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "lelabofragrances"
+        },
+        "Time": {
+          "timestamp": 1758561863
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "puma.usa"
+        },
+        "Time": {
+          "timestamp": 1758561921
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758561930
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758561962
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "prodbldg"
+        },
+        "Time": {
+          "timestamp": 1758562188
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "rombautofficial"
+        },
+        "Time": {
+          "timestamp": 1758562188
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "edikted"
+        },
+        "Time": {
+          "timestamp": 1758562188
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "psylos1_"
+        },
+        "Time": {
+          "timestamp": 1758564816
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "essentials"
+        },
+        "Time": {
+          "timestamp": 1758564816
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "artlist.io"
+        },
+        "Time": {
+          "timestamp": 1758568110
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758587952
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758594477
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758596068
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "miista"
+        },
+        "Time": {
+          "timestamp": 1758649403
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758652594
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "wsj"
+        },
+        "Time": {
+          "timestamp": 1758671482
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "urbansophisticationtm"
+        },
+        "Time": {
+          "timestamp": 1758677232
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "essentials"
+        },
+        "Time": {
+          "timestamp": 1758720483
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758771351
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "rombautofficial"
+        },
+        "Time": {
+          "timestamp": 1758771627
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "balenciaga"
+        },
+        "Time": {
+          "timestamp": 1758771631
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758771998
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "ugg"
+        },
+        "Time": {
+          "timestamp": 1758772168
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "ugg"
+        },
+        "Time": {
+          "timestamp": 1758772168
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "officialbyredo"
+        },
+        "Time": {
+          "timestamp": 1758773125
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jadedldn"
+        },
+        "Time": {
+          "timestamp": 1758777921
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "acnestudios"
+        },
+        "Time": {
+          "timestamp": 1758812591
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "newyorkermag"
+        },
+        "Time": {
+          "timestamp": 1758812591
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "maisonmargiela"
+        },
+        "Time": {
+          "timestamp": 1758821695
+        }
+      }
+    }
+  ]
+}
